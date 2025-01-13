@@ -6,9 +6,11 @@
 
 ## About me
 
-🤖 Started with FIRST Robotics Competition and Competitive Programming - strong background in DSA [Guides]
+🤖 Started with Programming and Strong background in DSA
 
-📚 Computer Science Bachelor's Degree @Babeș-Bolyai University [Courses] [Thesis]
+📚 Computer Science Bachelor's Degree @Jai Narain Vyas University
+
+📚 Computer Science Master's Degree @Gujarat Technological University
 
 📃 Learn more about my experience from my [resume](#)
 
@@ -94,4 +96,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/harshpdev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://instagram.com/harshpdev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshpdev)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/kumavathary)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kumavathary)
