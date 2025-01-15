@@ -93,8 +93,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusuraluca&show_icons=true&hide_title=true)
 
 ## Projects
-- [QuizApp | iOS | Swiftui](https://www.google.co.in/?client=safari) https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-- [SuperMario Game](https://www.google.co.in/?client=safari)
+- [QuizApp | iOS | Swiftui](https://www.google.co.in/?client=safari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpdev/)
+- [MyShop | iOS | Swiftui](https://www.google.co.in/?client=safari)
+- [SuperMario Game | iOS](https://www.google.co.in/?client=safari)
+- [Property | iOS | Swiftui](https://www.google.co.in/?client=safari)
 
 ## How to reach me
 
