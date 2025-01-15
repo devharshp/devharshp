@@ -2,7 +2,7 @@
 
 # Harsh Prajapat
 
-<img height="100" src="https://media.es.wired.com/photos/643f0484f381a95708848323/4:3/w_2136,h_1602,c_limit/macbook_sec_GettyImages-1368668740.jpg">
+<img width="100%" height="300" src="https://media.es.wired.com/photos/643f0484f381a95708848323/4:3/w_2136,h_1602,c_limit/macbook_sec_GettyImages-1368668740.jpg">
 
 ![alt text](https://media.es.wired.com/photos/643f0484f381a95708848323/4:3/w_2136,h_1602,c_limit/macbook_sec_GettyImages-1368668740.jpg)
 
