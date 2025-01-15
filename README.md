@@ -93,7 +93,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusuraluca&show_icons=true&hide_title=true)
 
 ## Projects
-- [QuizApp](https://www.google.co.in/?client=safari)
+- [QuizApp | iOS | Swiftui](https://www.google.co.in/?client=safari)
 - [SuperMario Game](https://www.google.co.in/?client=safari)
 
 ## How to reach me
