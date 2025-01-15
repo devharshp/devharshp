@@ -2,6 +2,8 @@
 
 # Harsh Prajapat
 
+<img src="https://media.es.wired.com/photos/643f0484f381a95708848323/4:3/w_2136,h_1602,c_limit/macbook_sec_GettyImages-1368668740.jpg">
+
 ![alt text](https://media.es.wired.com/photos/643f0484f381a95708848323/4:3/w_2136,h_1602,c_limit/macbook_sec_GettyImages-1368668740.jpg)
 
 ![alt text](https://images.pexels.com/photos/18829079/pexels-photo-18829079/free-photo-of-back-of-mercedes-sl-350.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
