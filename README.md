@@ -1,12 +1,4 @@
-## Hi there 👋
-
-# Harsh Prajapat
-
 ![alt text](https://images.pexels.com/photos/18829079/pexels-photo-18829079/free-photo-of-back-of-mercedes-sl-350.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
-/*
-![alt text](https://d3puhl2t51lebl.cloudfront.net/uploads/2022/01/iOS-App-Development.png)
-*/
 
 ## About me
 
