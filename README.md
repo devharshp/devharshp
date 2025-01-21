@@ -8,9 +8,9 @@
 
 🤖 Started with Programming and Strong background in DSA
 
-📚 Computer Science Bachelor's Degree @Jai Narain Vyas University
+📚 Computer Science Bachelor's Degree [Jai Narain Vyas University](#)
 
-📚 Computer Science Master's Degree @Gujarat Technological University
+📚 Computer Science Master's Degree [Gujarat Technological University](#)
 
 📃 Learn more about my experience from my [resume](#)
 
