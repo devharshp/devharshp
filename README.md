@@ -2,7 +2,7 @@
 
 # Harsh Prajapat
 
-![alt text](https://media.es.wired.com/photos/643f0484f381a95708848323/4:3/w_2136,h_1602,c_limit/macbook_sec_GettyImages-1368668740.jpg)
+![istockphoto-1314537683-612x612](https://github.com/user-attachments/assets/63fa3e06-2138-4bb7-9c93-ce24dd13b14e)
 
 ## About me
 
