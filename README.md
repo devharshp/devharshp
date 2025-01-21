@@ -91,7 +91,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusuraluca&show_icons=true&hide_title=true)
 
 ## Projects
-- [QuizApp](https://www.google.co.in/?client=safari)
+- [QuizApp](https://github.com/devharshp/QuizApp)
 - [MyShop](https://www.google.co.in/?client=safari)
 - [SuperMario Game](https://www.google.co.in/?client=safari)
 - [PropertyListing](https://www.google.co.in/?client=safari)
